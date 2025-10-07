@@ -1,14 +1,9 @@
-Mortgage Repayment Calculator (Streamlit Project)
+# Mortgage Repayment Calculator (Streamlit Project)
 
 An interactive web app built with Streamlit to estimate mortgage payments and visualize repayment schedules. Created following a tutorial from the Pixegami YouTube channel
 .
 
-Demo
-
-
-Replace path/to/your-screenshot.png with your actual screenshot or GIF file.
-
-Features
+__Features__
 
 💵 Monthly Repayment – Calculates how much you pay each month.
 
@@ -18,7 +13,7 @@ Features
 
 📊 Payment Schedule Chart – Visualizes how the loan balance decreases over time.
 
-Tech Stack
+__Tech Stack__
 
 Language: Python
 
@@ -26,7 +21,7 @@ Framework: Streamlit
 
 Visualization: Matplotlib / Plotly
 
-Installation & Running
+__Installation & Running__
 
 1.Clone this repository:
 git clone https://github.com/SarveshGanvir/Mortgage-Repayment-Calculator-Streamlit-.git
@@ -40,11 +35,11 @@ pip install -r requirements.txt
 4.Run the Streamlit app:
 streamlit run app.py
 
-Purpose
+__Purpose__
 
 A hands-on project to learn interactive web development, user input handling, and real-time financial data visualization using Python and Streamlit.
 
-Credits
+__Credits__
 
 Built following a tutorial from Pixegami YouTube Channel
 .https://youtube.com/@pixegami?si=3VuekW62HHhrguZo
