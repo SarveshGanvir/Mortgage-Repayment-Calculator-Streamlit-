@@ -28,23 +28,16 @@ Visualization: Matplotlib / Plotly
 
 Installation & Running
 
-Clone this repository:
+1.Clone this repository:
+git clone https://github.com/SarveshGanvir/Mortgage-Repayment-Calculator-Streamlit-.git
 
-git clone https://github.com/your-username/mortgage-calculator.git
+2.Navigate to the project folder:
+cd Mortgage-Repayment-Calculator-Streamlit-
 
-
-Navigate to the project folder:
-
-cd mortgage-calculator
-
-
-Install dependencies:
-
+3.Install dependencies:
 pip install -r requirements.txt
 
-
-Run the Streamlit app:
-
+4.Run the Streamlit app:
 streamlit run app.py
 
 Purpose
@@ -54,4 +47,4 @@ A hands-on project to learn interactive web development, user input handling, an
 Credits
 
 Built following a tutorial from Pixegami YouTube Channel
-.
+.https://youtube.com/@pixegami?si=3VuekW62HHhrguZo
